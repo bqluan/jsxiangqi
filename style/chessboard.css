@@ -1,0 +1,9 @@
+.bq-chessboard {
+  position: relative;
+  overflow: hidden;
+  cursor: default;
+  border: 0;
+  width: 468px;
+  height: 521px;
+  background: url("../images/chessboard.gif");
+}

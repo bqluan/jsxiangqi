@@ -1,0 +1,18 @@
+.bq-chesspiece {
+  width: 45px;
+  height: 45px;
+  position: absolute;
+}
+
+.bq-chesspiece-bg {
+  width: 45px;
+  height: 45px;
+  position: absolute;
+  /*background-color:#cccccc;
+  opacity:0.8;
+  filter:alpha(opacity=80);*/
+}
+
+.bq-chesspiece-selected {
+  border: 1px solid blue;
+}

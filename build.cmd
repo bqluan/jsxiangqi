@@ -1,0 +1,1 @@
+python ../closure/closure/bin/calcdeps.py -i src/chess.js -p src -p ../closure -c ../closure-compiler/compiler.jar -o compiled --output_file chess.js
